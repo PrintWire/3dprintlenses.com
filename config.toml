@@ -1,9 +1,18 @@
 baseURL = "https://3dprintlenses.com/"
 languageCode = "en-us"
 title = "3D Print Lenses"
-theme = "printwire"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Lenses"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">LENSES</span>'
 tagline       = "Precision additive manufacturing of optical lenses, freeform optics, and photonic components for imaging, AR/VR, and scientific instruments."
 description   = "3D Print Lenses covers additive manufacturing of optical components — from freeform lens printing in optically clear resin to printed gradient index optics, diffusers, and AR/VR optical waveguides."
 keywords      = "3D printed lenses, optical 3D printing, freeform optics AM, printed optics, AR VR lens 3D print, gradient index optics, photonic component printing"
