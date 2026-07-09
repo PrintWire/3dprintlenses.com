@@ -11,6 +11,7 @@ title = "3D Print Lenses"
       unsafe = true
 
 [params]
+ogImage       = "/images/04_vascularized_heart.png"
 siteName      = "3D Print Lenses"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">LENSES</span>'
 tagline       = "Precision additive manufacturing of optical lenses, freeform optics, and photonic components for imaging, AR/VR, and scientific instruments."
