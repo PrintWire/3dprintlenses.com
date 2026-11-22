@@ -15,7 +15,7 @@ ogImage       = "/images/04_vascularized_heart.png"
 siteName      = "3D Print Lenses"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">LENSES</span>'
 tagline       = "Precision additive manufacturing of optical lenses, freeform optics, and photonic components for imaging, AR/VR, and scientific instruments."
-description   = "3D Print Lenses covers additive manufacturing of optical components — from freeform lens printing in optically clear resin to printed gradient index optics, diffusers, and AR/VR optical waveguides."
+description   = "3D Print Lenses is a PrintWire network site about 3D printed lenses and optics. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "3D printed lenses, optical 3D printing, freeform optics AM, printed optics, AR VR lens 3D print, gradient index optics, photonic component printing"
 logoEmoji     = "🔭"
 contactEmail  = "maxdavisgroup@gmail.com"
